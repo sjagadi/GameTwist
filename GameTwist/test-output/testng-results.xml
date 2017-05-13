@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[The user has successfully logged in to the GameTwist application]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Free Slot Games online | Play for Free at GameTwist page]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Free Bingo Games | Play now for Free at GameTwist page]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Free Casino Games Online | Play for Free at GameTwist page]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Poker Free Online Play | GameTwist Casino page]]>
+    </line>
+    <line>
+      <![CDATA[Entered search text Slot in the search box]]>
+    </line>
+    <line>
+      <![CDATA[Number of pages displayed in the search results: 5]]>
+    </line>
+    <line>
+      <![CDATA[Total number of games: 23]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Party Games Slotto game link]]>
+    </line>
+    <line>
+      <![CDATA[The user navigated to Party Games Slotto Play Free Online | GameTwist Casino page]]>
+    </line>
+    <line>
+      <![CDATA[Changed the language from English to German]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged out from the GameTwist application]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89449" started-at="2017-05-13T21:09:11Z" finished-at="2017-05-13T21:10:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89449" started-at="2017-05-13T21:09:11Z" finished-at="2017-05-13T21:10:40Z">
+      <class name="com.scripts.VerifyTabsAndSearchGames">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="preCondition" is-config="true" duration-ms="11196" started-at="2017-05-13T23:09:11Z" finished-at="2017-05-13T23:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="TabsAndSearchGamesTest()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="TabsAndSearchGamesTest" duration-ms="76778" started-at="2017-05-13T23:09:22Z" finished-at="2017-05-13T23:10:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The user has successfully logged in to the GameTwist application]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Free Slot Games online | Play for Free at GameTwist page]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Free Bingo Games | Play now for Free at GameTwist page]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Free Casino Games Online | Play for Free at GameTwist page]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Poker Free Online Play | GameTwist Casino page]]>
+            </line>
+            <line>
+              <![CDATA[Entered search text Slot in the search box]]>
+            </line>
+            <line>
+              <![CDATA[Number of pages displayed in the search results: 5]]>
+            </line>
+            <line>
+              <![CDATA[Total number of games: 23]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Party Games Slotto game link]]>
+            </line>
+            <line>
+              <![CDATA[The user navigated to Party Games Slotto Play Free Online | GameTwist Casino page]]>
+            </line>
+            <line>
+              <![CDATA[Changed the language from English to German]]>
+            </line>
+            <line>
+              <![CDATA[Successfully logged out from the GameTwist application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TabsAndSearchGamesTest -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="postCondition" is-config="true" duration-ms="1454" started-at="2017-05-13T23:10:39Z" finished-at="2017-05-13T23:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.scripts.VerifyTabsAndSearchGames -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
