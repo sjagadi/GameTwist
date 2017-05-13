@@ -2,6 +2,9 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
+      <![CDATA[Closed the popup]]>
+    </line>
+    <line>
       <![CDATA[The user has successfully logged in to the GameTwist application]]>
     </line>
     <line>
@@ -38,17 +41,20 @@
       <![CDATA[Successfully logged out from the GameTwist application]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="89449" started-at="2017-05-13T21:09:11Z" finished-at="2017-05-13T21:10:40Z">
+  <suite name="Default suite" duration-ms="109480" started-at="2017-05-13T22:02:15Z" finished-at="2017-05-13T22:04:04Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="89449" started-at="2017-05-13T21:09:11Z" finished-at="2017-05-13T21:10:40Z">
+    <test name="Default test" duration-ms="109480" started-at="2017-05-13T22:02:15Z" finished-at="2017-05-13T22:04:04Z">
       <class name="com.scripts.VerifyTabsAndSearchGames">
-        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="preCondition" is-config="true" duration-ms="11196" started-at="2017-05-13T23:09:11Z" finished-at="2017-05-13T23:09:22Z">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="preCondition" is-config="true" duration-ms="25693" started-at="2017-05-14T00:02:15Z" finished-at="2017-05-14T00:02:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method status="PASS" signature="TabsAndSearchGamesTest()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="TabsAndSearchGamesTest" duration-ms="76778" started-at="2017-05-13T23:09:22Z" finished-at="2017-05-13T23:10:39Z">
+        <test-method status="PASS" signature="TabsAndSearchGamesTest()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="TabsAndSearchGamesTest" duration-ms="82469" started-at="2017-05-14T00:02:40Z" finished-at="2017-05-14T00:04:03Z">
           <reporter-output>
+            <line>
+              <![CDATA[Closed the popup]]>
+            </line>
             <line>
               <![CDATA[The user has successfully logged in to the GameTwist application]]>
             </line>
@@ -87,11 +93,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- TabsAndSearchGamesTest -->
-        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="postCondition" is-config="true" duration-ms="1454" started-at="2017-05-13T23:10:39Z" finished-at="2017-05-13T23:10:40Z">
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.scripts.VerifyTabsAndSearchGames@32d992b2]" name="postCondition" is-config="true" duration-ms="1298" started-at="2017-05-14T00:04:03Z" finished-at="2017-05-14T00:04:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
       </class> <!-- com.scripts.VerifyTabsAndSearchGames -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
